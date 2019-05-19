@@ -5,4 +5,5 @@ Our game is a top-down RPG with real time combat.
 
 # Credits:
 Lead Developer: Nostos
+
 Lead Writer: Moushaman
